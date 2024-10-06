@@ -1,0 +1,8 @@
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\bin\Debug\01_Egitim_Kampi.exe.config
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\bin\Debug\01_Egitim_Kampi.exe
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\bin\Debug\01_Egitim_Kampi.pdb
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.exe
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.pdb

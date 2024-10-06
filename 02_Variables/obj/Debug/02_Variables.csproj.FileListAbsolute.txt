@@ -1,0 +1,8 @@
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.pdb
