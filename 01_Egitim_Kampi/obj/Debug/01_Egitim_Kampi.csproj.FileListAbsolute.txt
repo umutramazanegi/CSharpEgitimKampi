@@ -6,3 +6,10 @@ C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\
 C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.csproj.CoreCompileInputs.cache
 C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.exe
 C:\Users\Umut Ramazan\source\repos\CSharpEğitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.pdb
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\bin\Debug\01_Egitim_Kampi.exe.config
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\bin\Debug\01_Egitim_Kampi.exe
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\bin\Debug\01_Egitim_Kampi.pdb
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.csprojAssemblyReference.cache
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.csproj.CoreCompileInputs.cache
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.exe
+C:\Github\CSharpEgitimKampi\01_Egitim_Kampi\obj\Debug\01_Egitim_Kampi.pdb

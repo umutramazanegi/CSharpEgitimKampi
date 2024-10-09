@@ -1,0 +1,7 @@
+C:\Github\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Github\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Github\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Github\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csprojAssemblyReference.cache
+C:\Github\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Github\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Github\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
