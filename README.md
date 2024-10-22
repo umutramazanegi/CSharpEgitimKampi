@@ -1,15 +1,15 @@
 # C# Egitim Kampı 
 
-M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde youtube tarafında C# için yapılan "Sertifikalı" bir eğitim projesidir. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
+M&Y Yazılım Eğitim Akademi Danışmanlık tarafından düzenlenen "Sertifikalı C# Eğitim Kampı" kapsamında geliştirdiğim projeleri bu repoda bulabilirsiniz. Her proje klasörü, o proje için öğrendiğim konuları ve geliştirdiğim uygulamaları içermektedir. Umarım bu repo, C# öğrenme yolculuğumda kaydettiğim ilerlemeyi gösterir ve başkaları için de faydalı bir kaynak olur.
 
 # C# Nedir?
 C#, Microsoft tarafından geliştirilen, modern ve çok yönlü bir programlama dilidir. Nesne yönelimli yapısı, özellikle .NET platformu ile olan güçlü entegrasyonu sayesinde masaüstü uygulamaları, web siteleri, mobil uygulamalar ve oyunlar gibi geniş bir yelpazede yazılım geliştirmek için ideal bir seçimdir.
 # C#'ın sağladığı bazı avantajlar:
-* **Hızlı ve Etkili:** C#, performans odaklı bir dildir ve .NET platformunun sağladığı optimizasyonlarla hızlı ve verimli uygulamalar geliştirmenizi sağlar.
-* **Güvenilir ve Güvenli:** C#'ın sunduğu tip güvenliği ve bellek yönetimi gibi özellikler, daha az hataya meyilli ve güvenli yazılımlar oluşturmanıza yardımcı olur.
-* **Kolay Öğrenme:** C#, sözdizimi olarak C ve Java gibi dillere benzediği için bu dillerle aşinalığı olanlar için öğrenmesi nispeten kolaydır.
-* **Geniş Kütüphane Desteği:** .NET kütüphaneleri, çeşitli görevleri gerçekleştirmek için önceden yazılmış binlerce kod bloğu sunar, bu da geliştirme sürecini hızlandırır.
-* **Büyük ve Aktif Topluluk:** C#, büyük ve aktif bir geliştirici topluluğuna sahiptir, bu da sorunlarınıza çözüm bulmayı ve bilgi paylaşımından faydalanmayı kolaylaştırır.
+➡️ <b>**Hızlı ve Etkili:** C#, performans odaklı bir dildir ve .NET platformunun sağladığı optimizasyonlarla hızlı ve verimli uygulamalar geliştirmenizi sağlar.<br>
+➡️ <b>**Güvenilir ve Güvenli:** C#'ın sunduğu tip güvenliği ve bellek yönetimi gibi özellikler, daha az hataya meyilli ve güvenli yazılımlar oluşturmanıza yardımcı olur.<br>
+➡️ <b>**Kolay Öğrenme:** C#, sözdizimi olarak C ve Java gibi dillere benzediği için bu dillerle aşinalığı olanlar için öğrenmesi nispeten kolaydır.<br>
+➡️ <b>**Geniş Kütüphane Desteği:** .NET kütüphaneleri, çeşitli görevleri gerçekleştirmek için önceden yazılmış binlerce kod bloğu sunar, bu da geliştirme sürecini hızlandırır.<br>
+➡️ <b>**Büyük ve Aktif Topluluk:** C#, büyük ve aktif bir geliştirici topluluğuna sahiptir, bu da sorunlarınıza çözüm bulmayı ve bilgi paylaşımından faydalanmayı kolaylaştırır.<br>
 
 # Popülerliğini arttıran etkenler:
 
@@ -19,6 +19,7 @@ C#, Microsoft tarafından geliştirilen, modern ve çok yönlü bir programlama 
 ➡️ <b> Platform Bağımsızlığı: </b> .NET Framework sayesinde C# ile yazılan uygulamalar farklı işletim sistemlerinde çalıştırılabilir.<br>
 ➡️ <b> Geniş Topluluk: </b> C#, dünya genelinde büyük bir kullanıcı topluluğuna sahiptir. Bu da öğrenme sürecinde ve sorunlarla karşılaşıldığında destek bulmayı kolaylaştırır.<br>
  <b>Eğitim Kampındaki Projeler:</b>
+ 
 📍 <b> Proje 1 - Temel Konular: </b>
 
 <li> Eğitim kampının ilk projesinde, programlamaya yeni başlayanlar için temel kod yapıları ve konsol ekranına metin yazdırma işlemleri ele alındı. Metinsel ve sayısal ifadelerin değişken olarak nasıl tanımlanacağı ve kullanılacağı örneklerle açıklandı. Bu kapsamda, örnek bir "Restoran Menü Fiyat" projesi geliştirildi.
