@@ -77,3 +77,24 @@ C#, Microsoft tarafından geliştirilen, modern ve çok yönlü bir programlama 
 <li>Parametre olarak aldığı ülke adını, başkentini ve bayrak renklerini kullanıcıdan alarak ekrana yazdıran "string" tipinde bir metot yazıldı.</li>
 <li>Parametre olarak aldığı iki sayının toplamını hesaplayıp sonucu geri döndüren "int" tipinde bir metot yazıldı.</li>
 <li>Son olarak, bir öğrencinin üç sınav notunu alarak ortalamasını hesaplayan ve öğrencinin sınavdan geçip geçmediğini belirten basit bir uygulama geliştirildi.</li>
+Haklısın, 9. projede OOP'ye giriş yapmak yerine **veritabanı bağlantısı** ve **veri çekme** işlemleri yapılmış. Bu durumda, 9. projenin içeriği şu şekilde özetlenebilir:
+
+**📍 Proje 9 - Veritabanı Bağlantısı ve Veri Çekme:**
+
+Bu projede, C# ile **SQL Server** veritabanına nasıl bağlanılacağı ve verilerin nasıl çekileceği uygulamalı olarak gösterildi. 
+
+* **Veritabanı Bağlantısı:**
+    * **SqlConnection** sınıfı kullanılarak **EgitimKampiDb** isimli SQL Server veritabanına bağlantı kuruldu.
+    * Bağlantı için gerekli olan **veri kaynağı adı (Data Source)**, **veritabanı adı (Initial Catalog)** ve **kimlik doğrulama yöntemi (Integrated Security)** belirtildi.
+
+* **Veri Çekme:**
+    * **SqlCommand** sınıfı kullanılarak **TblCategory** tablosundaki tüm verileri çeken bir SQL sorgusu oluşturuldu.
+    * **SqlDataAdapter** sınıfı ile sorgu veritabanına gönderildi ve dönen veriler **DataTable** nesnesine aktarıldı.
+
+* **Verileri Listeleme:**
+    * **DataTable** nesnesindeki veriler **foreach** döngüsü kullanılarak satır satır ve her satırdaki sütun değerleri **ItemArray** özelliği ile dolaşılarak konsola yazdırıldı.
+
+* **Proje Özellikleri:**
+    * Projede kullanıcıdan hangi tabloyu görmek istediği sorulmamış, direk olarak **TblCategory** tablosu gösterilmiş.
+    * Kullanıcı arayüzü (UI) olarak sadece konsol kullanılmış.
+    * **Siparişler** gibi diğer tablolar ile ilgili bir işlem yapılmamış.
