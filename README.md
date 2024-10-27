@@ -98,3 +98,39 @@ Bu projede, C# ile **SQL Server** veritabanına nasıl bağlanılacağı ve veri
     * Projede kullanıcıdan hangi tabloyu görmek istediği sorulmamış, direk olarak **TblCategory** tablosu gösterilmiş.
     * Kullanıcı arayüzü (UI) olarak sadece konsol kullanılmış.
     * **Siparişler** gibi diğer tablolar ile ilgili bir işlem yapılmamış.
+
+10. derste **CRUD (Create, Read, Update, Delete)** yani **oluşturma, okuma, güncelleme ve silme** işlemleri ele alınmış ve bu işlemler SQL Server veritabanındaki **TblCategory** ve **TblProduct** tabloları üzerinde gerçekleştirilmiş. İşte 10. dersin detaylı özeti:
+
+**📍 Proje 10 - Veritabanı CRUD İşlemleri:**
+
+Bu projede, önceki derste öğrenilen veritabanı bağlantısı ve veri çekme bilgilerine ek olarak; veri ekleme, silme ve güncelleme işlemleri ele alındı. 
+
+**1. Kategori Ekleme:**
+
+* Kullanıcıdan eklenecek kategori adı isteniyor.
+* **SqlConnection** ile veritabanına bağlanılıyor.
+* **SqlCommand** ile **TblCategory** tablosuna veri eklemek için SQL sorgusu (`INSERT INTO`) oluşturuluyor ve kullanıcının girdiği kategori adı, parametre olarak sorguda yerine konuluyor.
+* **ExecuteNonQuery()** metodu ile sorgu çalıştırılıyor ve etkilenen satır sayısından bağımsız olarak işlem gerçekleştiriliyor.
+* Sonuç olarak ekleme işleminin başarılı olduğu konsola yazdırılıyor.
+
+**2. Ürün Ekleme:**
+
+* Benzer şekilde, kullanıcıdan ürün adı ve fiyatı alınıyor.
+* **TblProduct** tablosuna ürün eklemek için **INSERT INTO** sorgusu kullanılıyor.
+* Ürün durumu (`ProductStatus`) varsayılan olarak "true" olarak ayarlanmış.
+
+**3. Ürün Listeleme:**
+
+* **TblProduct** tablosundaki tüm verileri çekmek için **SELECT *** sorgusu kullanılıyor.
+* Gelen veriler **SqlDataAdapter** ile **DataTable**'a aktarılıyor.
+* **DataTable**'daki veriler **foreach** döngüsü ile satır satır ve her satırdaki sütun değerleri dolaşılarak konsola yazdırılıyor.
+
+**4. Ürün Silme:**
+
+* Kullanıcıdan silinecek ürünün ID'si isteniyor.
+* **DELETE FROM** sorgusu ile belirtilen ID'ye sahip ürün **TblProduct** tablosundan siliniyor.
+
+**5. Ürün Güncelleme:**
+
+* Kullanıcıdan güncellenecek ürünün ID'si, yeni adı ve yeni fiyatı isteniyor.
+* **UPDATE** sorgusu ile belirtilen ID'ye sahip ürünün adı ve fiyatı güncelleniyor.
