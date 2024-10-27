@@ -26,7 +26,7 @@ namespace _09_DatabaseProject
             tableNumber = Console.ReadLine();
             Console.WriteLine("********************************************************");
 
-            SqlConnection connection = new SqlConnection("Data Source=UMUT\SQLEXPRESS;Initial Catalog=EgitimKampiDb;Integrated Security=True");
+            SqlConnection connection = new SqlConnection(@"Data Source=UMUT\SQLEXPRESS;Initial Catalog=EgitimKampiDb;Integrated Security=True");
             connection.Open();
             SqlCommand command = new SqlCommand("Select*from TblCategory", connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
